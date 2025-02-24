@@ -1,25 +1,5 @@
 ::https://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990#10167990
 
-
-@REM First loop
-    @REM Create batch script which
-    @REM  reads all files of given extension
-    @REM  from given directory and its sub directories 
-    @REM into array or list, 
-
-@REM Second loop
-    @REM then iterate this array 
-    @REM and form log file in the same directory. 
-    @REM Log file should have this format:
-        @REM current date 
-        @REM current time
-        @REM filename1
-        @REM filepath1
-        @REM filename2
-        @REM filepath2 ...
-
-@REM C:\Users\aluba\OneDrive\Desktop\VUmif\Year3_part2\ScriptinisProgramavimas
-
 @echo off
 setlocal EnableDelayedExpansion
 
