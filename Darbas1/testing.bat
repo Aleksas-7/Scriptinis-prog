@@ -24,7 +24,7 @@
 setlocal EnableDelayedExpansion
 
 set fo=file_output.txt
-set default_dir=C:\Users\aluba\OneDrive\Desktop\VUmif\Year3_part2\ScriptinisProgramavimas
+set default_dir=C:\Users
 set default_ext=.bat
 
 set /p "direc=Enter file directory (C:\smth\smth):  " 
