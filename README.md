@@ -1,0 +1,2 @@
+# Scriptinis-prog
+Atsiskaitymu kodai
