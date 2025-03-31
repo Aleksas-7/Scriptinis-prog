@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZIm9DEV7P0maC_MSSzFG" name="Page-1">
+        <mxGraphModel dx="1682" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Give parameters to the script through terminal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Ideja: &quot;&lt;span data-teams=&quot;true&quot;&gt;O Projekto temai galvojau padaryti kokia terminų stebėjimo/sekimo priemone (Deadline tracker).&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-40" width="370" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="A unintuitive but quick way to use the functions of the &quot;Deadline tracker&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="130" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="250" width="370" height="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Possible parameters are: show | add | remove | history | help" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="260" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Param &#39;help&#39;: Gives an explanation of what the script does and lists all possible parameters and what they do" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="330" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Param &#39;add&#39;: Adds a deadline to the list, needs to have provided: name and time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="400" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Param &#39;remove&#39;: Gives a few ways to remove currently active deadlines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="470" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Param &#39;history&#39;: Lists deadlines that were completed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="540" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Param &#39;show&#39;: Lists currently active deadlines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="610" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="I want to lear sqlite3 for python, so the deadlines are saved in a sqlite3 database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="220" width="270" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Param &#39;date&#39;: Displays how the dcrippt would understand the given date | for testing purposes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="750" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Param &#39;complete&#39;: Shows a list of deadlines that can be completed, promts for an id, mark the id-s deadline done" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="680" width="310" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
